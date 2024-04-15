@@ -1,0 +1,8 @@
+name=input("enter a name :")
+age=int(input("enter a age :"))
+city=input("eneter a city name:")
+father=input("eneter a father name:")
+matric=input("enter a city name wher you have completed eyour matric:")
+inter=input("enter a city name wher you have completed eyour enter:")
+university=input("enetr your uni name:")
+print("my name is",name,"and i am ",age,"years old.i am from",city,"my father name is",father,"i have completed my matric from ",matric,"i have completed my inter from ",inter,"i am currently study in ",university,"university" )
