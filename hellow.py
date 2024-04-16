@@ -1,1 +1,2 @@
-print("hellow , hi ")
+name="kiayat"
+print(name)
